@@ -1,0 +1,5 @@
+com\elasticsearch\IndexEmployeeData.class
+com\elasticsearch\MyElasticFunctions.class
+com\elasticsearch\EmployeeDataLoader.class
+com\elasticsearch\ElasticsearchConnector.class
+com\elasticsearch\Employee.class
